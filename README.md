@@ -22,7 +22,7 @@ Memote ([available here](https://github.com/opencobra/memote))
 All Files required to create the flux distributions using Escher are contained in the *Escher* folder.
 Escher ([available here](https://escher.github.io/)) 
 ## S. Meliloti models:
-xml files were downloaded from supplementary material of ([iHZ565](https://doi.org/10.1371/journal.pone.0031287.s002)) and ([iGD1575] (https://www.nature.com/articles/ncomms12219)).
+xml files were downloaded from supplementary material of ([iHZ565](https://doi.org/10.1371/journal.pone.0031287.s002)) and ([iGD1575](https://www.nature.com/articles/ncomms12219)).
 
 ## Please cite:
 Contador, C.A., Lo, S-K., Chan, S.H.J., Lam, H-M. (2019). Metabolic analyses of nitrogen fixation in the soybean micro-symbiont Sinorhizobium fredii using constraint-based modeling. (submitted).
