@@ -25,4 +25,4 @@ Escher ([available here](https://escher.github.io/))
 xml files were downloaded from supplementary material of ([iHZ565](https://doi.org/10.1371/journal.pone.0031287.s002)) and ([iGD1575](https://www.nature.com/articles/ncomms12219)).
 
 ## Please cite:
-Contador, C.A., Lo, S-K., Chan, S.H.J., Lam, H-M. (2020). Metabolic analyses of nitrogen fixation in the soybean micro-symbiont Sinorhizobium fredii using constraint-based modeling. mSystems (accepted).
+Contador, C.A., Lo, S-K., Chan, S.H.J., Lam, H-M. (2020). Metabolic analyses of nitrogen fixation in the soybean micro-symbiont Sinorhizobium fredii using constraint-based modeling. mSystems 5 (1) e00516-19; ([DOI: 10.1128/mSystems.00516-19](https://msystems.asm.org/content/5/1/e00516-19))
